@@ -16,6 +16,14 @@ common git commands for INFO 340. Literally all the git commands you ever need t
 
 ```git checkout -b your-new-branch-name```: create a new branch in the repo. Note: the -b flag takes a name of the new branch name!
 
+Whenever you create a branch and push for the first time, you need to set up the upstream. Meaning you only created the branch locally on your machine, not on the repo. So you need to push your branch as well! Just follow the command git prompts you to do.
+```
+fatal: The current branch louis-ta has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin your-new-branch-name
+```
+
 ```git checkout existing-branch-name```: switch to an existing branch.
 
 ## merging to main
