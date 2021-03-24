@@ -1,3 +1,5 @@
-# edit this file with arbitrary text hehe
+# edit this file with your name :D
 
-replace this text!
+(DO NOT EDIT THIS LINE) instructor's name here: 
+
+(EDIT THIS LINE) add your name here: 
