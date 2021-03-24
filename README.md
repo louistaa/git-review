@@ -1,4 +1,4 @@
-# Louis's INFO340 git-review
+# Louis's INFO340 git review
 common git commands for INFO 340. Literally all the git commands you ever need to use for this class.
 
 ## sanity check
@@ -23,10 +23,10 @@ common git commands for INFO 340. Literally all the git commands you ever need t
 ### Golden rule 2: all changes come to main already committed, so just need to do a push!
 
 
-if you're on louis-branch (any branch that is not on main)
+if you're on louis-branch (or any branch that is not on main)
 ```bash
 git add . # add my changes to staging area
-git commit "message" # save snapshot of updates locally
+git commit -m "message" # save snapshot of updates locally
 git push # upload all my local changes to the repo
 ```
 
