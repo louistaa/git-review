@@ -43,7 +43,7 @@ NOW YOU ARE DONE :DDDDDDDDD
 
 ## merging from main
 so you have updates from main that you need locally
-if you're on louis-branch (any branch that is not on main)
+if you're on louis-branch (or any branch that is not on main)
 
 ```bash
 git status . # check if you are in the correct branch you want to recieve changes in
@@ -63,4 +63,4 @@ Simple 4-step process, unless you get a merge conflict. To avoid merge conflicts
 
 ```git stash```: remove all changes to the files you did and revert to the old state of since the last commit. Useful when you have been working on code that no longer has a use.
 
-```:wq```: how to exit vim. Sometimes you'll enter vim, the text-editor that git uses. 
+```:wq```: exit vim. Sometimes you'll enter vim, the text-editor that git uses. 
