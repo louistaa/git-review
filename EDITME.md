@@ -1,5 +1,5 @@
 # edit this file with your name :D
 
-(DO NOT EDIT THIS LINE) instructor's name here: Louis Ta
+(DO NOT EDIT THIS LINE) instructor's name here:
 
-(EDIT THIS LINE) add your name here: An awesome student
+(EDIT THIS LINE) add your name here:
