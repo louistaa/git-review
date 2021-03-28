@@ -18,7 +18,7 @@ common git commands for INFO 340. Literally all the git commands you ever need t
 
 Whenever you create a branch and push for the first time, you need to set up the upstream. Meaning you only created the branch locally on your machine, not on the repo. So you need to push your branch as well! Just follow the command git prompts you to do.
 ```
-fatal: The current branch louis-ta has no upstream branch.
+fatal: The current branch your-new-branch-name has no upstream branch.
 To push the current branch and set the remote as upstream, use
 
     git push --set-upstream origin your-new-branch-name
@@ -54,7 +54,7 @@ so you have updates from main that you need locally
 if you're on louis-branch (or any branch that is not on main)
 
 ```bash
-git status . # check if you are in the correct branch you want to recieve changes in
+git status # check if you are in the correct branch you want to recieve changes in
 git pull # pull the changes that someone else has pushed
 git checkout louis-branch # switch to the branch you want to apply changes to
 git merge main
