@@ -2,4 +2,4 @@
 
 (DO NOT EDIT THIS LINE) instructor's name here: Louis Ta
 
-(EDIT THIS LINE) add your name here:
+(EDIT THIS LINE) add your name here: Louis Ta
